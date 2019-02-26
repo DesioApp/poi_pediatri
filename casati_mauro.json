@@ -1,0 +1,20 @@
+{
+  "ACTION": {
+    "TITLE": "Casati Mauro",
+    "SUBTITLE": "Pediatra",
+    "TYPE": "MENU",
+    "MENU": [
+      {
+        "ICON": "e0cd",
+        "TITLE": "0362/301528",
+        "SUBTITLE": "Da lun a ven dalle 09.00 alle 13.00 e dalle 14.00 - 17.30",
+        "ACTION": {
+          "TYPE": "INTENT",
+          "INTENT": {
+            "VALUE": "tel:0362301528"
+          }
+        }
+      }
+    ]
+  }
+}
