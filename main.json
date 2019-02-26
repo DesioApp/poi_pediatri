@@ -5,12 +5,12 @@
     "TYPE": "MENU",
     "MENU": [
       {
-        "TITLE": "Casari Mauro",
+        "TITLE": "Casati Mauro",
         "ACTION": {
           "TYPE": "FILE",
           "FILE": {
             "DATASET": "poi_pediatri",
-            "FILE": "casari_mauro.json"
+            "FILE": "casati_mauro.json"
           }
         }
       }
